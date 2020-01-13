@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LOGIN",
+				"LOGIN_REDIRECT_URL"
+			],
+			[
+				"User",
+				"UserRegisterForm"
+			],
+			[
+				"Search",
+				"SearchTweetAPIView"
+			],
+			[
+				"date",
+				"date_display"
+			],
+			[
+				"parsed",
+				"parsed_hashtags_receiver"
+			],
+			[
+				"current",
+				"currentHtml"
+			],
+			[
+				"parent",
+				"ParentTweetModelSerializer"
+			],
+			[
+				"user",
+				"user_profile"
+			],
+			[
+				"UserProfile",
+				"UserProfileManager"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"next",
+				"nextTweetUrl"
+			],
+			[
+				"sera",
+				"searchInput"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"span",
+				"spanChars"
+			],
+			[
+				"seri",
+				"serializer_class"
+			],
+			[
+				"Tweet",
+				"TweetModelSerializer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/april/Desktop/fanfanman/meanstack/note.txt",
+			"settings":
+			{
+				"buffer_size": 1748,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/april/Desktop/fanfanman/meanstack/README.md",
+			"settings":
+			{
+				"buffer_size": 770,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/april/Desktop/fanfanman/meanstack/views/node.hbs",
+			"settings":
+			{
+				"buffer_size": 158,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 296.0,
+		"last_filter": "indent",
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/april/Desktop/fanfanman/meanstack",
+		"/C/Users/april/Desktop/fanfanman/meanstack/bin",
+		"/C/Users/april/Desktop/fanfanman/meanstack/routes",
+		"/C/Users/april/Desktop/fanfanman/meanstack/views"
+	],
+	"file_history":
+	[
+		"/C/Users/april/Desktop/fanfanman/meanstack/README.md",
+		"/C/Users/april/Desktop/fanfanman/meanstack/package-lock.json",
+		"/C/Users/april/Desktop/fanfanman/meanstack/routes/app.js",
+		"/C/Users/april/Desktop/fanfanman/meanstack/views/node.hbs",
+		"/C/Users/april/Desktop/fanfanman/meanstack/note.txt",
+		"/C/Users/april/Desktop/fanfanman/distributedsys/2017-12-12-Cloud-Computing-Concepts1-note3.md",
+		"/C/Users/april/Desktop/fanfanman/distributedsys/2017-12-12-Cloud-Computing-Concepts1-note2.md",
+		"/C/Users/april/Desktop/fanfanman/distributedsys/2017-12-09-Cloud-Computing-Concepts1-note1.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-12-Computer-Vision-Note-9.md",
+		"/C/Users/april/Desktop/fanfanman/distributedsys/note1.txt",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/project.html",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab15/salesman.zip",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2015-12-22-preface-to-this-blog.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_includes/sidebar.html",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/Gemfile",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_config.yml",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-19-Computer-Vision-Note-11.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_layouts/default.html",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab10/gridnormal.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab10/make2a.m",
+		"/C/Users/april/Desktop/fanfanman/tweetme/notes.txt",
+		"/C/Users/april/Desktop/fanfanman/tweetme/README.md",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templates/registration/login.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/views.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/templates/navbar.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweetme/settings/base.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweetme/settings/local.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweetme/settings/production.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/views.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/forms.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweetme/urls.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templates/accounts/user_register_form.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/urls.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templates/accounts/login.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/tweet_list.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templates/accounts/user_detail.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templatetags/recommended.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templates/accounts/snippets/recommend.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templates/accounts/snippets/recommended.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/templatetags/__init__.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/models.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/templates/base.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/api/views.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/templates/hashtags/tag_view.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/api/__init__.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/templates/search.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/api/views.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweetme/views.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/search_form.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/models.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/api/serializers.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/tweet_detail.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/api/urls.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/templates/reply-modal.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/form.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/api/urls.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/models.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/signals.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/tests.py",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab9/saw2d.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab9/generate_saw.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab9/rw2d.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab9/generate_rw.m",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/urls.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/views.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/hashtags/admin.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/tests.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/admin.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/api/serializers.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/api/pagination.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/forms.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/accounts/api/__init__.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/api/__init__.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/tests.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/create_view.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/detail_view.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/delete_confirm.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/list_view.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/tweets/update_view.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/templates/home.html",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/mixins.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/admin.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/validators.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/templates/validators.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/validators",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab8/montecarlo.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab8/loop.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab8/loop_calculate_field.m",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweets/migrations/urls.py",
+		"/C/Users/april/Downloads/wire3d_demo.py",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/static-storage/static/css/custom.css",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab7/capacitor_Jacobi.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab7/capacitor_update_Jacobi.m",
+		"/C/Users/april/Desktop/fanfanman/tweetme/src/tweetme/settings/__init__.py",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab6/hyperion.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab5/two_planets_simulation.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab5/planet_EulerCromer.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab3/pendulumEuler.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab4/pendulumRK2.m",
+		"/C/Users/april/Desktop/purdue/PHYS580/lab1/uranium.m",
+		"/D/iclicker v7.13-Windows/Classes/PHYS172-17fall-Fan/SessionData/L1708301130.xraw",
+		"/C/Users/april/Desktop/fanfanman/UdaicityAI/notes/2017-07-13-Note-1.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-16-Computer-Vision-Note-10.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-07-Computer-Vision-Note-8.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-08-Disqus-Setup.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_includes/disqus.html",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-02-Computer-Vision-Note-7.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-07-01-Computer-Vision-Note-6.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-06-29-Computer-Vision-Note-5.md",
+		"/C/Users/april/Desktop/fanfanman/newposts/2017-06-29-Computer-Vision-Note-5.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2017-05-26-Computer-Vision-4.md",
+		"/C/Users/april/Desktop/fanfanman/newposts/2017-05-26-Computer-Vision-4.md",
+		"/C/Users/april/Desktop/fanfanman/newposts/2017-05-25-Computer-Vision-3.md",
+		"/C/Users/april/Desktop/fanfanman/newposts/2017-05-18-Computer-Vision-Note-1.md",
+		"/C/Users/april/Desktop/fanfanman/newposts/2017-05-22-Computer-Vision-Note-2.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2016-11-07-Learning-note-1.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2016-11-06-Starting-to-learn-computer-graphics.md",
+		"/C/Users/april/Desktop/fanfanman/fanfanman.github.io/_posts/2016-11-26-deleted-code.md",
+		"/Z/www/index.html",
+		"/Z/www/courses.html",
+		"/Z/www/teaching.html",
+		"/Z/www/resources.html",
+		"/Z/www/research.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"only",
+			"multi",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/april/Desktop/fanfanman/meanstack/note.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1748,
+								1748
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 750.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/april/Desktop/fanfanman/meanstack/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/april/Desktop/fanfanman/meanstack/views/node.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tweetme.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
